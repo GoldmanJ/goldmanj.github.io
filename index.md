@@ -4,8 +4,8 @@
 
 ### Projects
 
-**[Imperial Scout](https://github.com/FIRST-Robot-Empire/ImperialScoutBot)**
+#### **[Imperial Scout](https://github.com/FIRST-Robot-Empire/ImperialScoutBot)**
 
-**[Inverse Language](https://github.com/GoldmanJ/Inverse-Lang)**
+#### **[Inverse Language](https://github.com/GoldmanJ/Inverse-Lang)**
 
-**Animator**
+#### **Animator**

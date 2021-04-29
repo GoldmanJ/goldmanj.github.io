@@ -4,8 +4,8 @@
 
 ## Projects
 
-### **[Imperial Scout]{Projects.imperial_scout_bot.md}**
+### **[Imperial Scout](Projects.imperial_scout_bot.md)**
 
-### **[Inverse Language]{Projects.inverse_language.md}**
+### **[Inverse Language](Projects.inverse_language.md)**
 
-### **[Animator]{Projects.animator.md}**
+### **[Animator](Projects.animator.md)**

@@ -1,11 +1,11 @@
-## Joshua Goldman Software Development Resume
+# Joshua Goldman Software Development Resume
 
 [Email](Goldman.j@northeastern.edu)
 
-### Projects
+## Projects
 
-#### **[Imperial Scout](https://github.com/FIRST-Robot-Empire/ImperialScoutBot)**
+### **[Imperial Scout]{Projects.imperial_scout_bot.md}**
 
-#### **[Inverse Language](https://github.com/GoldmanJ/Inverse-Lang)**
+### **[Inverse Language]{Projects.inverse_language.md}**
 
-#### **Animator**
+### **[Animator]{Projects.animator.md}**
